@@ -7,6 +7,8 @@ Have a Look - https://proj-crypto.netlify.app/
 Feel Free to Edit and Give Your Suggestions . If You Like the Project Give a  # Star 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 The application uses API from the website https://www.coingecko.com/
 
 ## Getting Started
