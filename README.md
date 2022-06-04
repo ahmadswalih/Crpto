@@ -2,7 +2,7 @@
 
 A Portfolio Project that Updates The Value of  Crpto Currencies. 
 
-# <a href="https://proj-crypto.netlify.app/"/>Have a look </a>
+### Have a look <a href="https://proj-crypto.netlify.app/"/>Here </a>
 
 
 Feel Free to Edit and Give Your Suggestions . If You Like the Project Give a  # Star 
