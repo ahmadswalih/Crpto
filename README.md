@@ -1,32 +1,44 @@
-## Overview
+<h1 align="center">Welcome to Crypto-Tracker 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="/LICENSE" target="_blank">
+    <img alt="License: mit" src="https://img.shields.io/badge/License-mit-yellow.svg" />
+  </a>
+</p>
 
-A Portfolio Project that Updates The Value of  Crpto Currencies. 
+> A Portfolio Project that Updates The Value of Crpto Currencies.The application uses API from the website <a href=&#34;https://www.coingecko.com/&#34;> CoinGecko </a> .This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### Have a look <a href="https://proj-crypto.netlify.app/"/>Here </a>
+### 🏠 [Homepage](pages/index.js)
 
+### ✨ [Demo](https://proj-crypto.netlify.app/)
 
-Feel Free to Edit and Give Your Suggestions . If You Like the Project Give a  # Star 
+## Install
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
-The application uses API from the website https://www.coingecko.com/
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
+```sh
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+npm run start
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Author
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+👤 **ahmadswalih**
 
+* Github: [@ahamdswalih](https://github.com/ahamdswalih)
+* LinkedIn: [@ahmad-swalih-cm-6429881b5](https://linkedin.com/in/ahmad-swalih-cm-6429881b5)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2022 [ahmadswalih](https://github.com/ahamdswalih).<br />
+This project is [mit](/LICENSE) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
