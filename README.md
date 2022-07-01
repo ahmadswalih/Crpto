@@ -6,11 +6,12 @@
   </a>
 </p>
 
-> A Portfolio Project that Updates The Value of Crpto Currencies.The application uses API from the website <a href=&#34;https://www.coingecko.com/&#34;> CoinGecko </a> .This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+> A Portfolio Project that Updates The Value of Crpto Currencies.The application uses API from the website <a href=&#34;https://www.coingecko.com/&#34;> CoinGecko </a> .This is a <a href="https://nextjs.org/" > Next.js </a> project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## ✨ [Demo](https://proj-crypto.netlify.app/)
 
 ### 🏠 [Homepage](pages/index.js)
 
-### ✨ [Demo](https://proj-crypto.netlify.app/)
 
 ## Install
 
